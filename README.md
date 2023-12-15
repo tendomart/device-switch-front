@@ -4,3 +4,8 @@
 
 2. It should send a request to the HomeControlApi backend through a rest api.
 
+#SETUP / project requirements
+
+1. install node
+2. npm / yarn
+3. typescript
