@@ -1,8 +1,9 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
+import LightSwitch from "../src/components/LightSwitch";
 ReactDOM.render(
 <div>
-<h1>Hello, Welcome to React and TypeScript</h1>
+   <LightSwitch/>
 </div>,
   document.getElementById("root")
 );
